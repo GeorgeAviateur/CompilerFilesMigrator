@@ -1,15 +1,15 @@
-# Created By Jorge Garcia, all right reserved. Not for commercial use, It's not even that perfect for that purpose anyway :v .
+# Created by Jorge Garcia, all rights reserved. Not for commercial use, it's not even that perfect for that purpose anyway :v .
 # Source directories (add as many as needed)
-#keep in mind this routes should be subfolders inside destination server. Do not use paths such as:
+# Keep in mind that these routes should be subfolders inside the destination server. Do not use paths such as:
 #C:\Users\MyUser\source\repos\Compiled
 #use C:\Users\MyUser\source\repos\Compiled\Subfolder1
-#Don't you dare! | Ni loco mi llave!
-#Necessary files like favicon.ico, web.config, packages.config, located in the main folder may be moved manually.
+#Don't you dare! ¡Ni loco mi llave!
+#Necessary files like favicon.ico, web.config, packages.config, located in the main folder, may be moved manually.
 
 ##1. These are the folders compiled by the dev engine
 $sourcePaths = @(
     "C:\Users\MyUser\source\repos\compiled(bin)\Controllers",
-    "C:\Users\MyUser\source\repos\compiled\Utilitaries",
+    "C:\Users\MyUser\source\repos\compiled\Utilities",
 	"...",
 )
 
@@ -22,7 +22,7 @@ $destination2 = "C:\Users\MyUser\source\repos\compilado\T2"
 
 $chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"  # Update Chrome path if necessary
 
-## when the process is finished the program tries to open this in the browser.
+## When the process is finished, the program tries to open this in the browser.
 $UrlDePruebas1="http://bills/VirtualPath/home.aspx"
 
 
@@ -174,5 +174,6 @@ Play-Note 523 350  # C5
 Play-Note 440 700  # A4
 
 Write-Host "Process completed successfully!" -ForegroundColor Green
+
 
 ##Happy days, mate!

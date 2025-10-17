@@ -1,4 +1,4 @@
-# 🚀 CompilerFilesMigrator
+# 🚀 Compiler Files Migrator
 
 This script makes things easy when you need to **transfer files created after compilation** and grab a cuppa at the same time. ☕
 ## 👤 Who is this intended for?

@@ -16,7 +16,7 @@ What if I tell you that here, you just need to set your folders, run the script 
 # 🧰 How to use this beauty?
   Open PowerShell and find the CompilerFilesMigrator path script.
   Write:
-  powershell -ExecutionPolicy Bypass -File "C:\Users\BLABLABLA\CompilerFilesMigrator.ps1"
+ > powershell -ExecutionPolicy Bypass -File "C:\Users\BLABLABLA\CompilerFilesMigrator.ps1"
 <img width="1483" height="269" alt="image" src="https://github.com/user-attachments/assets/c8adf60d-0c9f-4391-9cea-daece68cee92" />
   Return, and select your destination.
   <img width="1480" height="253" alt="image" src="https://github.com/user-attachments/assets/36454740-00a6-479c-b810-4f0692f5516f" />
@@ -26,3 +26,5 @@ What if I tell you that here, you just need to set your folders, run the script 
   
   
   Don't forget to leave a comment in my repo. 🙌
+If you want to check my resumé [Click Here](https://jgengineer.com/).
+
